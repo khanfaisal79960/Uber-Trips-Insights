@@ -9,7 +9,7 @@
   <h2>📁 Project Structure</h2>
   <ul>
     <li><strong>uber-trip-analysis-eda.ipynb</strong> - Main Jupyter notebook with detailed EDA.</li>
-    <li><em>data/</em> - Folder to contain the Uber trip dataset (CSV format).</li>
+    <li><em>data/</em> - Folder to contain the Uber trip dataset (not included in repo).</li>
   </ul>
 
   <h2>🔍 Key Highlights</h2>
